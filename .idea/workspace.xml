@@ -2,90 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94b822da-f0eb-4ab9-a819-340ce59cae50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/eslintPlugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AppContainer/AppContainer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AppContainer/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tab/Tab.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tab/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/Block/Block.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/Block/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/Controls/Controls.helpers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/Controls/Controls.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/Controls/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/CreateElementModal/CreateElementModal.helpers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/CreateElementModal/CreateElementModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/CreateElementModal/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/MainBlock/MainBlock.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/constructor/MainBlock/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/Desktop/Desktop.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/Desktop/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/LeftBar/LeftBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/LeftBar/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/RightBar/RightBar.helpers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/RightBar/RightBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/RightBar/components/Select/Select.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/RightBar/components/Select/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/SettingsBar/SettingsBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main-containers/SettingsBar/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Italic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Italic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/TradeWinds.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/TradeWinds.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/TradeWinds.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/TradeWinds.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/hooks/useSelectLayer.hook.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/hooks/useSelectLayerOnMount.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/hooks/useSelectNewRef.hook.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/typings/elements.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/utils/elements.utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/layers/layers.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/layers/layers.reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/layers/layers.selectors.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/layers/layers.types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/root.reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/GlobalStyles.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,10 +24,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -118,7 +37,7 @@
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Ivan.Kvitka\WebstormProjects\landing-creator\node_modules\eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -178,11 +97,12 @@
       <workItem from="1583495768690" duration="8586000" />
       <workItem from="1583832251598" duration="61000" />
       <workItem from="1583851026992" duration="398000" />
+      <workItem from="1594407036222" duration="267000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3307" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582890920616">
