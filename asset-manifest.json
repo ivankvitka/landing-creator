@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/landing-creator/static/js/main.ba9907c7.chunk.js",
+    "main.js.map": "/landing-creator/static/js/main.ba9907c7.chunk.js.map",
+    "runtime-main.js": "/landing-creator/static/js/runtime-main.fc8b0260.js",
+    "runtime-main.js.map": "/landing-creator/static/js/runtime-main.fc8b0260.js.map",
+    "static/js/2.335b8a9e.chunk.js": "/landing-creator/static/js/2.335b8a9e.chunk.js",
+    "static/js/2.335b8a9e.chunk.js.map": "/landing-creator/static/js/2.335b8a9e.chunk.js.map",
+    "index.html": "/landing-creator/index.html",
+    "precache-manifest.54ec9a5c218818d3a1843b165687a6af.js": "/landing-creator/precache-manifest.54ec9a5c218818d3a1843b165687a6af.js",
+    "service-worker.js": "/landing-creator/service-worker.js",
+    "static/js/2.335b8a9e.chunk.js.LICENSE.txt": "/landing-creator/static/js/2.335b8a9e.chunk.js.LICENSE.txt",
+    "static/media/Roboto-Bold.woff": "/landing-creator/static/media/Roboto-Bold.08cb8f79.woff",
+    "static/media/Roboto-Bold.ttf": "/landing-creator/static/media/Roboto-Bold.16d7bb99.ttf",
+    "static/media/Roboto-Bold.eot": "/landing-creator/static/media/Roboto-Bold.4a1d8c27.eot",
+    "static/media/Roboto-Bold.woff2": "/landing-creator/static/media/Roboto-Bold.f3a02e25.woff2",
+    "static/media/Roboto-Italic.woff2": "/landing-creator/static/media/Roboto-Italic.ad4e0874.woff2",
+    "static/media/Roboto-Italic.ttf": "/landing-creator/static/media/Roboto-Italic.b391d0e9.ttf",
+    "static/media/Roboto-Italic.eot": "/landing-creator/static/media/Roboto-Italic.d798f933.eot",
+    "static/media/Roboto-Italic.woff": "/landing-creator/static/media/Roboto-Italic.fd597012.woff",
+    "static/media/Roboto-Regular.ttf": "/landing-creator/static/media/Roboto-Regular.4312f1fb.ttf",
+    "static/media/Roboto-Regular.woff": "/landing-creator/static/media/Roboto-Regular.94dac78e.woff",
+    "static/media/Roboto-Regular.woff2": "/landing-creator/static/media/Roboto-Regular.9feb0110.woff2",
+    "static/media/Roboto-Regular.eot": "/landing-creator/static/media/Roboto-Regular.b9077621.eot",
+    "static/media/TradeWinds.woff2": "/landing-creator/static/media/TradeWinds.81950ec6.woff2",
+    "static/media/TradeWinds.woff": "/landing-creator/static/media/TradeWinds.ade553e4.woff",
+    "static/media/TradeWinds.eot": "/landing-creator/static/media/TradeWinds.b2357d30.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc8b0260.js",
+    "static/js/2.335b8a9e.chunk.js",
+    "static/js/main.ba9907c7.chunk.js"
+  ]
+}
